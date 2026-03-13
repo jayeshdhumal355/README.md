@@ -21,7 +21,4 @@ Currently focused on building web projects and exploring Cyber Security.
 ![Jayesh's Stats](https://github-readme-stats.vercel.app/api?username=jayeshdhumal355&show_icons=true&theme=dark&hide_border=true)
 
 ---
-
-### 📞 Contact Me
-**Phone:** +91 7774044098
     
