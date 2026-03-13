@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Jayesh%20Dhumal&fontSize=70" />
+  <img src="https://vscodemodes.com/api/header?title=Jayesh%20Dhumal&subtitle=Developer%20|%20Cyber%20Security&theme=dark" width="100%" />
 </div>
 
 # Hi there, I'm Jayesh Dhumal 👋
@@ -12,6 +12,7 @@ Currently focused on building web projects and exploring Cyber Security.
 ### 🛠 My Skills
 
 **Languages:**
+<br>
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
 <br>
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
