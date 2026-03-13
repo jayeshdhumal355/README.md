@@ -8,10 +8,9 @@ Currently focused on building web projects and exploring Cyber Security.
 ### 🛠 My Skills
 
 **Languages:**
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
 <br>
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
-<br>
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ---
 
@@ -20,5 +19,5 @@ Currently focused on building web projects and exploring Cyber Security.
 
 ---
 
-### 🌐 Connect with me
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@TrappedGaming)
+### 📞 Contact Me
+**Phone:** +91 [7774044098]
