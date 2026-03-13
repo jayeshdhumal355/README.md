@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jayeshdhumal355/jayeshdhumal355/main/header.png" onerror="this.src='https://github-readme-stats.vercel.app/api/pin/?username=jayeshdhumal355&repo=jayeshdhumal355&theme=dark'" width="100%" />
-</p>
+
 
 # Hi there, I'm Jayesh Dhumal 👋
 
