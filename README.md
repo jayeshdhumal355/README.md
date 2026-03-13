@@ -1,6 +1,6 @@
-<div align="center">
-  <img src="https://vscodemodes.com/api/header?title=Jayesh%20Dhumal&subtitle=Developer%20|%20Cyber%20Security&theme=dark" width="100%" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jayeshdhumal355/jayeshdhumal355/main/header.png" onerror="this.src='https://github-readme-stats.vercel.app/api/pin/?username=jayeshdhumal355&repo=jayeshdhumal355&theme=dark'" width="100%" />
+</p>
 
 # Hi there, I'm Jayesh Dhumal 👋
 
@@ -26,3 +26,4 @@ Currently focused on building web projects and exploring Cyber Security.
 
 ### 📞 Contact Me
 **Phone:** +91 7774044098
+    
