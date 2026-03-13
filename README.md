@@ -20,4 +20,4 @@ Currently focused on building web projects and exploring Cyber Security.
 ---
 
 ### 📞 Contact Me
-**Phone:** +91 [7774044098]
+**Phone:** +91 7774044098
